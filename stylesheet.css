@@ -2,14 +2,15 @@
 	background-color: #d9ff66;
 	height: 70px;
 	position: fixed;
-	width: 105%;
+	width: 101%;
 	/*float:  left;*/
 	margin: 0;
 	top: 0;
-	margin-left: -50px;
+	margin-left: -20px;
 }
 
 #topbar div {
+	margin-left: -5px;
 	float: right;
 	height: 93%;
 	display: inline-block;
