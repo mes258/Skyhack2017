@@ -2,10 +2,11 @@
 	background-color: #d9ff66;
 	height: 70px;
 	position: fixed;
-	width: 97%;
+	width: 105%;
 	/*float:  left;*/
 	margin: 0;
 	top: 0;
+	margin-left: -50px;
 }
 
 #topbar div {
@@ -78,7 +79,7 @@ h1{
 }
 
 #footer{
-	margin-top: 410px;
+	/*margin-top: 410px;*/
 	background-color: #d9ff66;
 	width: 100%;
 	bottom:0;
