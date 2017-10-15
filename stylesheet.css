@@ -60,14 +60,17 @@ h1{
 
 #right{
 	float: right;
-	height: 500px;
+	height: 400px;
 	width: 66%
 }
 
 #left{
 	width: 33%;
 	float: left;
-	height: 500px;
+	height: 400px;
+}
+#left img{
+	height: 400px;
 }
 
 .bodysection{
