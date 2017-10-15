@@ -15,6 +15,7 @@
 	width: 19%;
 	margin: 1px;
 	text-align: center;
+	text-decoration: none;
 }
 #topBar div div {
 	display: inline-block;
@@ -45,14 +46,26 @@ h1{
 	margin-top: 100px;
 }
 
-#right{
+#topright{
 	float: right;
 	height: 500px;
 	width: 50%
 }
 
-#left{
+#topleft{
 	width: 49%;
+	float: left;
+	height: 500px;
+}
+
+#right{
+	float: right;
+	height: 500px;
+	width: 66%
+}
+
+#left{
+	width: 33%;
 	float: left;
 	height: 500px;
 }
@@ -66,7 +79,7 @@ h1{
 }
 
 #sec2{
-	background-color:  #f2ffcc;
+	/*background-color:  #f2ffcc;*/
 }
 
 #sec3{
@@ -74,7 +87,7 @@ h1{
 }
 
 #sec4{
-	background-color:  #f2ffcc;
+	/*background-color:  #f2ffcc;*/
 }
 
 #footer{
