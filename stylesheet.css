@@ -77,22 +77,11 @@ h1{
 	/*background-color: purple;*/
 }
 
-#sec1{
-	/*margin-top: 100px;*/
-}
-
-#sec2{
-	/*background-color:  #f2ffcc;*/
-}
-
-#sec3{
-
-}
-
-#sec4{
-	/*background-color:  #f2ffcc;*/
-}
-
 #footer{
-
+	margin-top: 410px;
+	background-color: #d9ff66;
+	width: 100%;
+	bottom:0;
+	height: 30px;
+	text-align: right;
 }
